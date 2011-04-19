@@ -2,7 +2,7 @@ alien-bind (C) 2010 g/christensen (gchristnsn@gmail.com)
 
 alien-bind is a macro which allows to seamlessly execute alien code from the
 Common Lisp code with alien (currently only string) variable values bound to 
-specified lisp symbols. Emacs Lisp port is also available.
+the specified lisp symbols. Emacs Lisp port is also available.
 
 
 Supported external languages:
